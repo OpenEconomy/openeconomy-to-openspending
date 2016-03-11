@@ -1,0 +1,19 @@
+Item,Parent,2009-10
+Annual Expenses,,72384
+Goods and Services,Annual Expenses,60736
+Housing Costs,Goods and Services,11908
+Utilities,Goods and Services,1612
+Food,Goods and Services,10192
+Alcohol,Goods and Services,1612
+Tobacco,Goods and Services,780
+Clothing and Footwear,Goods and Services,2028
+Furniture,Goods and Services,2548
+Household Services,Goods and Services,3224
+Medical,Goods and Services,3536
+Transport,Goods and Services,8840
+Recreation,Goods and Services,7644
+Personal care,Goods and Services,1092
+Miscellaneous goods and services,Goods and Services,5720
+Income Tax,Annual Expenses,7332
+Mortgage Repayments,Annual Expenses,2132
+Superannuation and life insurance,Annual Expenses,2184

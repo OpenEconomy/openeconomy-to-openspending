@@ -1,0 +1,19 @@
+Item,Parent,2009-10
+Assets,,555700
+Financial Assets,Assets,82500
+Bank Accounts,Financial Assets,19800
+Shares,Financial Assets,3700
+Public Unit Trusts,Financial Assets,1900
+Private Trusts,Financial Assets,800
+Debentures and Bonds,Financial Assets,100
+Own Incorporated Business (Net),Financial Assets,2000
+Superannuation with government,Financial Assets,17600
+Superannuation non-government,Financial Assets,36200
+Other,Financial Assets,400
+Non-financial Assets,Assets,473200
+Owner Occupied Dwelling,Non-financial Assets,340300
+Investment Property,Non-financial Assets,49700
+Own Unincorporated Business (Net),Non-financial Assets,4100
+House Contents,Non-financial Assets,60100
+Vehicles,Non-financial Assets,18700
+Other,Non-financial Assets,300

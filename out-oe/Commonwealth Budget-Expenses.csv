@@ -1,0 +1,446 @@
+Item,Parent,2011-12,2012-13,2013-14,2010-11
+Expenses,,373300000000,369800000000,394000000000,349600000000
+Other,Expenses,0,8348000000,10008000000,0
+Health and Ageing,Expenses,0,55966000000,58257000000,0
+Professional Services Review,Health and Ageing,0,5000000,5000000,0
+Private Health Insurance Ombudsman,Health and Ageing,0,2000000,2000000,0
+Private Health Insurance Administration Council,Health and Ageing,0,426000000,477000000,0
+National Health Performance Authority,Health and Ageing,0,32000000,33000000,0
+National Health and Medical Research Council,Health and Ageing,0,815000000,917000000,0
+National Health Funding Body,Health and Ageing,0,0,4000000,0
+National Blood Authority,Health and Ageing,0,1088000000,1137000000,0
+Independent Hospital Pricing Authority,Health and Ageing,0,24000000,26000000,0
+Health Workface Australia,Health and Ageing,0,213000000,209000000,0
+General Practice Education and Training,Health and Ageing,0,206000000,234000000,0
+Food Standard Australia New Zealand,Health and Ageing,0,21000000,20000000,0
+Cancer Australia,Health and Ageing,0,28000000,30000000,0
+Australian Radiation Protection and Nuclear Safety Agency,Health and Ageing,0,24000000,25000000,0
+Australian Organ and Tissue Donation and Transplantation Authority,Health and Ageing,0,45000000,45000000,0
+Australian National Preventative Health Agency,Health and Ageing,0,66000000,49000000,0
+Australian Institute of Health and Welfare,Health and Ageing,0,52000000,52000000,0
+Australian Commission on Safety and Quality in Healthcare,Health and Ageing,0,16000000,17000000,0
+Aged Care Standards and Accreditation Agency,Health and Ageing,0,38000000,36000000,0
+Biosecurity and Emergency Response,Health and Ageing,0,90000000,61000000,0
+Acute Care,Health and Ageing,0,1048000000,994000000,0
+Public hospitals and information ,Acute Care,0,258000000,156000000,0
+Medical indemnity ,Acute Care,0,97000000,100000000,0
+Blood and organ donation services,Acute Care,0,692000000,737000000,0
+Health Workforce Capacity,Health and Ageing,0,1345000000,1407000000,0
+Workforce development and innovation,Health Workforce Capacity,0,311000000,294000000,0
+Workforce and rural distribution,Health Workforce Capacity,0,1034000000,1112000000,0
+Mental Health,Health and Ageing,0,400000000,519000000,0
+Health System Capacity And Quality,Health and Ageing,0,917000000,1031000000,0
+Health infrastructure,Health System Capacity And Quality,0,469000000,527000000,0
+Research capacity and quality,Health System Capacity And Quality,0,74000000,121000000,0
+International policy engagement,Health System Capacity And Quality,0,14000000,14000000,0
+Health information,Health System Capacity And Quality,0,34000000,31000000,0
+ e-Health implementation ,Health System Capacity And Quality,0,105000000,148000000,0
+Chronic disease ï¿½ treatment,Health System Capacity And Quality,0,218000000,188000000,0
+Private Health,Health and Ageing,0,5576000000,5410000000,0
+Indigenous Health,Health and Ageing,0,750000000,847000000,0
+Hearing Services,Health and Ageing,0,416000000,452000000,0
+Rural Health,Health and Ageing,0,100000000,106000000,0
+Primary Care,Health and Ageing,0,866000000,878000000,0
+Primary care practice incentives,Primary Care,0,282000000,209000000,0
+"Primary care financing, quality and access",Primary Care,0,576000000,660000000,0
+Primary care education and training,Primary Care,0,7000000,8000000,0
+Aged Care and Population Ageing,Health and Ageing,0,11500000000,12251000000,0
+Ageing and Service Improvement,Aged Care and Population Ageing,0,184000000,222000000,0
+Workforce and Quality,Aged Care and Population Ageing,0,253000000,280000000,0
+Residential and Flexible Care,Aged Care and Population Ageing,0,8347000000,8849000000,0
+Home Care,Aged Care and Population Ageing,0,1161000000,1224000000,0
+Home Support,Aged Care and Population Ageing,0,1416000000,1516000000,0
+Access and Information,Aged Care and Population Ageing,0,137000000,157000000,0
+Access to Medical Services,Health and Ageing,0,18695000000,19249000000,0
+Chronic disease - radiation oncology,Access to Medical Services,0,73000000,75000000,0
+Pathology services,Access to Medical Services,0,5000000,5000000,0
+Diagnostic imaging services ,Access to Medical Services,0,3000000,3000000,0
+Targeted assistance - medical ,Access to Medical Services,0,32000000,42000000,0
+Medicare services,Access to Medical Services,0,18578000000,19122000000,0
+Access to Pharmaceutical Services,Health and Ageing,0,10478000000,10947000000,0
+Targeted assistance - aids and appliances,Access to Pharmaceutical Services,0,288000000,308000000,0
+Targeted assistance - pharmaceuticals,Access to Pharmaceutical Services,0,154000000,156000000,0
+Pharmaceuticals and pharmaceutical services,Access to Pharmaceutical Services,0,9694000000,10108000000,0
+Community pharmacy and pharmaceutical awareness,Access to Pharmaceutical Services,0,340000000,373000000,0
+Population Health,Health and Ageing,0,671000000,769000000,0
+Public health,Population Health,0,39000000,36000000,0
+Immunisation,Population Health,0,114000000,147000000,0
+Regulatory policy,Population Health,0,156000000,169000000,0
+Drug strategy,Population Health,0,236000000,258000000,0
+Communicable disease control ,Population Health,0,15000000,25000000,0
+"Prevention, early detection and service improvement",Population Health,0,107000000,132000000,0
+"Education, Employment & Workplace Relations",Expenses,0,32455000000,36637000000,0
+Safe Work Australia,"Education, Employment & Workplace Relations",0,21000000,19000000,0
+Office of the Fair Work Building Industry Inspectorate,"Education, Employment & Workplace Relations",0,31000000,25000000,0
+"Education, Advice and Compliance Functions",Office of the Fair Work Building Industry Inspectorate,0,31000000,25000000,0
+Fair Work Ombudsman,"Education, Employment & Workplace Relations",0,137000000,125000000,0
+Education Services and Compliance Activities,Fair Work Ombudsman,0,137000000,125000000,0
+Fair Work Commission,"Education, Employment & Workplace Relations",0,76000000,83000000,0
+Comcare,"Education, Employment & Workplace Relations",0,448000000,448000000,0
+Access to compensation for people with asbestos-related diseases where the Commonwealth has a liability through management of claims.,Comcare,0,37000000,30000000,0
+Supporting injured federal workers,Comcare,0,386000000,393000000,0
+Provide support to the Seafarers Safety Rehabilitation and Compensation Authority,Supporting injured federal workers,0,1000000,1000000,0
+Management of Pre Premium Grants from Portfolio Agencies,Supporting injured federal workers,0,14000000,10000000,0
+Management of Premium Claims,Supporting injured federal workers,0,358000000,367000000,0
+SRC Act Regulation,Supporting injured federal workers,0,12000000,14000000,0
+"Promoting worker health, wellbeing and resilience in federal workplaces",Comcare,0,24000000,24000000,0
+Australian Institute for Teaching and School Leadership,"Education, Employment & Workplace Relations",0,15000000,14000000,0
+Assistance for quality teaching and learning,Australian Institute for Teaching and School Leadership,0,15000000,14000000,0
+"Australian Curriculum, Assessment and Reporting Authority","Education, Employment & Workplace Relations",0,39000000,34000000,0
+National Assessment,"Australian Curriculum, Assessment and Reporting Authority",0,20000000,17000000,0
+National Data Collection and Reporting,"Australian Curriculum, Assessment and Reporting Authority",0,6000000,6000000,0
+National Curriculum,"Australian Curriculum, Assessment and Reporting Authority",0,12000000,10000000,0
+"Safer, fairer and more productive workplaces ","Education, Employment & Workplace Relations",0,559000000,467000000,0
+Workers Compensation Payments,"Safer, fairer and more productive workplaces ",0,72000000,72000000,0
+Workers Compensation Payments,Workers Compensation Payments,0,45000000,42000000,0
+Asbestos Compensation Payments,Workers Compensation Payments,0,20000000,23000000,0
+Comcare payments,Workers Compensation Payments,0,6000000,6000000,0
+Workplace Assistance,"Safer, fairer and more productive workplaces ",0,13000000,16000000,0
+Social and Community Workers Education and Information Program,Workplace Assistance,0,0,0,0
+Award Modernisation,Workplace Assistance,0,1000000,3000000,0
+Centre for Workplace Leadership,Workplace Assistance,0,1000000,3000000,0
+International Labour Organisation Subscription,Workplace Assistance,0,8000000,8000000,0
+Protected Action Ballots Scheme,Workplace Assistance,0,1000000,1000000,0
+Employee Assistance,"Safer, fairer and more productive workplaces ",0,473000000,377000000,0
+Fair Entitlements Guarantee Act 2012,Employee Assistance,0,55000000,192000000,0
+Coal Mining Industry Commission,Employee Assistance,0,169000000,172000000,0
+General Employee Entitlements and Redundancy Scheme,Employee Assistance,0,248000000,12000000,0
+Employment & Training services,"Education, Employment & Workplace Relations",0,17048000000,17970000000,0
+Working Age Payments,Employment & Training services,0,14789000000,15464000000,0
+Youth Allowance (Other),Working Age Payments,0,836000000,1074000000,0
+Widow Allowance,Working Age Payments,0,373000000,351000000,0
+Utilities Allowance,Working Age Payments,0,18000000,18000000,0
+Sickness Allowance,Working Age Payments,0,97000000,99000000,0
+Pensioner Education Supplement,Working Age Payments,0,81000000,80000000,0
+Partner Allowance Pension,Working Age Payments,0,118000000,68000000,0
+Partner Allowance Benefit,Working Age Payments,0,12000000,5000000,0
+Parenting Payment Partnered,Working Age Payments,0,1004000000,981000000,0
+Parenting Payment Single,Working Age Payments,0,4488000000,4245000000,0
+New start Allowance,Working Age Payments,0,7609000000,8385000000,0
+Mobility Allowance,Working Age Payments,0,147000000,150000000,0
+Compensation and Debt Relief,Working Age Payments,0,0,0,0
+Remote Jobs and Communities Program,Employment & Training services,0,0,213000000,0
+Remote Youth Leadership and Development Corp,Remote Jobs and Communities Program,0,0,7000000,0
+Remote Participation and Employment Services,Remote Jobs and Communities Program,0,0,206000000,0
+Disability Employment Services,Employment & Training services,0,788000000,776000000,0
+Employment Assistance and Other Services,Disability Employment Services,0,37000000,35000000,0
+Disability Employment Services,Disability Employment Services,0,750000000,741000000,0
+Indigenous Employment,Employment & Training services,0,172000000,154000000,0
+Indigenous Employment Program,Indigenous Employment,0,172000000,154000000,0
+Employment Services,Employment & Training services,0,1298000000,1361000000,0
+Productive Ageing Package,Employment Services,0,4000000,3000000,0
+Mature Age Employment,Employment Services,0,6000000,10000000,0
+"Regional Education, Skills and Jobs Plans",Employment Services,0,0,0,0
+Productivity Education and Training Fund,Employment Services,0,10000000,0,0
+Pacific Seasonal Workers Program,Employment Services,0,1000000,0,0
+Job Services Australia,Employment Services,0,1276000000,1346000000,0
+Teaching & Learning for school students,"Education, Employment & Workplace Relations",0,8908000000,9536000000,0
+National Rewards for Great Teachers,Teaching & Learning for school students,0,1000000,0,0
+National Rewards for Great Teachers,National Rewards for Great Teachers,0,1000000,0,0
+Rewards for School Improvement,Teaching & Learning for school students,0,0,0,0
+Rewards for School Improvement (Non-Government),Rewards for School Improvement,0,0,0,0
+Rewards for School Improvement,Rewards for School Improvement,0,0,0,0
+Empowering Local Schools,Teaching & Learning for school students,0,0,0,0
+Empowering Local Schools (Non-Government),Empowering Local Schools,0,0,0,0
+Empowering Local Schools,Empowering Local Schools,0,0,0,0
+National Action Plan on Literacy and Numeracy,Teaching & Learning for school students,0,1000000,0,0
+Student Assistance,Teaching & Learning for school students,0,288000000,294000000,0
+Superannuation payments for ATAS,Student Assistance,0,0,0,0
+Assistance for Isolated Children,Student Assistance,0,64000000,71000000,0
+ABSTUDY - Tertiary,Student Assistance,0,84000000,86000000,0
+ABSTUDY - Secondary,Student Assistance,0,139000000,135000000,0
+Youth Support,Teaching & Learning for school students,0,126000000,127000000,0
+National Youth Affairs Research Component,Youth Support,0,0,0,0
+Youth Engagement,Youth Support,0,11000000,7000000,0
+Youth Attainment and Transitions National Partnership,Youth Support,0,114000000,120000000,0
+More Support for Students with Disabilities,Teaching & Learning for school students,0,17000000,24000000,0
+Students with Disabilities (Non-Government),More Support for Students with Disabilities,0,17000000,19000000,0
+Students with Disabilities (COPE),More Support for Students with Disabilities,0,0,5000000,0
+Smarter Schools: Improving Teacher Quality National Partnership,Teaching & Learning for school students,0,17000000,1000000,0
+Teacher Quality,Smarter Schools: Improving Teacher Quality National Partnership,0,17000000,1000000,0
+Digital Education,Teaching & Learning for school students,0,80000000,4000000,0
+Digital Education Revolution (Non-Government),Digital Education,0,74000000,0,0
+Digtal Education Revolution Project Pool,Digital Education,0,6000000,4000000,0
+Trade Training Centres (Non-Government),Teaching & Learning for school students,0,51000000,31000000,0
+Schools Support,Teaching & Learning for school students,0,228000000,206000000,0
+ABC Digital Education,Schools Support,0,1000000,1000000,0
+Indigenous Education,Schools Support,0,40000000,30000000,0
+Maths and Science Participation,Schools Support,0,3000000,4000000,0
+NBN Enabled Education,Schools Support,0,7000000,8000000,0
+Review of School Funding,Schools Support,0,4000000,0,0
+Creative Young Stars,Schools Support,0,0,3000000,0
+National Plan for School Improvement,Schools Support,0,17000000,9000000,0
+Framework for Open Learning,Schools Support,0,2000000,3000000,0
+Quality Outcomes,Schools Support,0,50000000,41000000,0
+Helping Children with Autism,Schools Support,0,5000000,5000000,0
+National School Chaplaincy Program,Schools Support,0,74000000,74000000,0
+Grants and Awards,Schools Support,0,3000000,3000000,0
+National Asian Languages in Schools,Schools Support,0,0,0,0
+Indigenous Ranger Cadetships,Schools Support,0,1000000,3000000,0
+Australian Baccalaureate,Schools Support,0,0,0,0
+Online Diagnostic Tools,Schools Support,0,10000000,9000000,0
+National Trade Cadetship,Schools Support,0,3000000,3000000,0
+Teach Next,Schools Support,0,0,1000000,0
+Non-Government Schools National Support,Teaching & Learning for school students,0,8095000000,8846000000,0
+ndigenous Education (Targeted Assistance) Act,Non-Government Schools National Support,0,130000000,77000000,0
+Australian Education Act 2013,Non-Government Schools National Support,0,0,4391000000,0
+Schools Assistance Act 2008,Non-Government Schools National Support,0,7965000000,4378000000,0
+Early Childhood learning & Care,"Education, Employment & Workplace Relations",0,5168000000,7910000000,0
+Government Schools National Support,Early Childhood learning & Care,0,0,2432000000,0
+Early Childhood Education,Early Childhood learning & Care,0,3000000,3000000,0
+Early Childhood Education - Universal Access,Early Childhood Education,0,3000000,3000000,0
+Child Care Fee Assistance,Early Childhood learning & Care,0,4661000000,5048000000,0
+Child Care Rebate,Child Care Fee Assistance,0,2131000000,2412000000,0
+Child Care Benefit,Child Care Fee Assistance,0,2529000000,2636000000,0
+Support for the Child Care System,Early Childhood learning & Care,0,504000000,426000000,0
+Jobs Education and Training Child Care Fee Assistance  (JETCCFA),Support for the Child Care System,0,110000000,82000000,0
+Child Care Services Support,Support for the Child Care System,0,393000000,343000000,0
+Department of Veteran Affairs,Expenses,0,12593000000,12641000000,0
+Australian War Memorial,Department of Veteran Affairs,0,55000000,67000000,0
+Acknowledgment and Comemoration,Department of Veteran Affairs,0,54000000,87000000,0
+Gallipoli-related Activities,Acknowledgment and Comemoration,0,4000000,4000000,0
+War Graves and Commemorations,Acknowledgment and Comemoration,0,50000000,82000000,0
+Health and Other Care Services,Department of Veteran Affairs,0,5522000000,5559000000,0
+Adjustment to the Military Rehabilitation and Compensation Acts Liability Provision,Health and Other Care Services,0,62000000,48000000,0
+Military Rehabilitation and Compensation Acts,Health and Other Care Services,0,82000000,85000000,0
+Veterans' Counselling and Other Health Services,Health and Other Care Services,0,635000000,667000000,0
+Veterans' Community Care and Support,Health and Other Care Services,0,1631000000,1723000000,0
+Veterans' Pharmaceuticals Benefits,Health and Other Care Services,0,450000000,416000000,0
+Veterans' Hospital Services,Health and Other Care Services,0,1708000000,1675000000,0
+General Medical Consultations and Services,Health and Other Care Services,0,953000000,941000000,0
+Income Support and Compensation,Department of Veteran Affairs,0,6960000000,6926000000,0
+Adjustment to the Military Rehabilitation and Compensation Acts Liability Provision,Income Support and Compensation,0,210000000,164000000,0
+Military Rehabilitation and Compensation Acts Payments ,Income Support and Compensation,0,318000000,321000000,0
+Veterans' Children Education Scheme,Income Support and Compensation,0,18000000,18000000,0
+Assistance and Other Compensation for Veterans and Dependants,Income Support and Compensation,0,88000000,84000000,0
+Assistance to Defence Widow/ers and Dependants,Income Support and Compensation,0,1854000000,1860000000,0
+Veterans' Disability Support,Income Support and Compensation,0,1574000000,1589000000,0
+Veterans' Income Support and Allowances,Income Support and Compensation,0,2895000000,2888000000,0
+"Industry Innovation, Science, Research & Tertiary Education Portfolio",Expenses,0,21665000000,23699000000,0
+Tertiary Education Quality and Budget Statements Standards Agency,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,18000000,20000000,0
+IP Australia ,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,169000000,178000000,0
+Commonwealth Scientific and Industrial Research Organisation ,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,1265000000,1300000000,0
+Climate Change Authority,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,6000000,8000000,0
+Clean Energy Regulator,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,2550000000,3806000000,0
+Australian Skills Quality Authority,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,37000000,38000000,0
+Australian Research Council ,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,906000000,910000000,0
+Excellence for Research in Australia,Australian Research Council ,0,7000000,4000000,0
+Linkage - Cross-sector Research Partnerships,Australian Research Council ,0,348000000,344000000,0
+Discovery - Research and Research Training,Australian Research Council ,0,550000000,561000000,0
+Australian Nuclear Science and Technology Organisation,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,268000000,294000000,0
+Australian Institute of Marine Science,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,51000000,57000000,0
+Australian Institute of Aboriginal and Torres Strait Islander Studies,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,15000000,16000000,0
+Climate Change,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,37000000,79000000,0
+Program Support ,Climate Change,0,24000000,58000000,0
+Helping to Shape a Global Climate Change,Climate Change,0,1000000,3000000,0
+Adapting to Climate Change,Climate Change,0,9000000,13000000,0
+Reducing Australia's Greenhouse Gas,Climate Change,0,1000000,3000000,0
+Tertiary Education,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,13011000000,13413000000,0
+Program Support,Tertiary Education,0,184000000,184000000,0
+International Support,Tertiary Education,0,69000000,67000000,0
+VET National Support,Tertiary Education,0,1613000000,1555000000,0
+Tertiary Student Assistance,Tertiary Education,0,3029000000,3093000000,0
+Higher Education Loan Program,Tertiary Education,0,1083000000,1289000000,0
+Higher Education Support,Tertiary Education,0,7031000000,7223000000,0
+Science & Research,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,2001000000,2026000000,0
+Program Support,Science & Research,0,75000000,75000000,0
+Science &  Research Capacity,Science & Research,0,282000000,225000000,0
+Investment in Higher Education Research,Science & Research,0,1643000000,1725000000,0
+Collaborative Research Infrastructure Scheme,Investment in Higher Education Research,0,20000000,39000000,0
+The Australian Postgraduate Awards,Investment in Higher Education Research,0,248000000,266000000,0
+Sustainable Research Excellence in Universities,Investment in Higher Education Research,0,139000000,169000000,0
+Research Training Scheme,Investment in Higher Education Research,0,656000000,671000000,0
+Research Infrastructure Block Grants,Investment in Higher Education Research,0,224000000,223000000,0
+Joint Research Engagement Program,Investment in Higher Education Research,0,333000000,332000000,0
+International Postgraduate Research Scholarship Scheme,Investment in Higher Education Research,0,21000000,22000000,0
+Australian industry support,"Industry Innovation, Science, Research & Tertiary Education Portfolio",0,1325000000,1549000000,0
+Program Support,Australian industry support,0,348000000,355000000,0
+Innovative Industry,Australian industry support,0,377000000,369000000,0
+Other,Innovative Industry,0,146000000,88000000,0
+Commercialisation Australia,Innovative Industry,0,70000000,74000000,0
+Clean Technology Innovation Program,Innovative Industry,0,4000000,61000000,0
+Cooperative Research Centres Program,Innovative Industry,0,156000000,144000000,0
+Industry Development and Investment,Australian industry support,0,598000000,824000000,0
+Other,Industry Development and Investment,0,185000000,265000000,0
+Clean Technology Investment Programs,Industry Development and Investment,0,54000000,166000000,0
+Automotive Transformation Scheme,Industry Development and Investment,0,358000000,391000000,0
+"Families, Housing, Community Services and Indigenous Affairs portfolio",Expenses,0,83735000000,88069000000,0
+Torres Strait Regional Authority,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,53000000,56000000,0
+Indigenous Land Corporation,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,100000000,92000000,0
+Indigenous Business Australia,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,163000000,183000000,0
+Business Development and Assistance,Indigenous Business Australia,0,32000000,32000000,0
+Indigenous Home Ownership,Indigenous Business Australia,0,47000000,52000000,0
+Equities and Investments,Indigenous Business Australia,0,83000000,98000000,0
+Workplace Gender Equality Agency,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,5000000,5000000,0
+Australian Institute of Family Studies,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,14000000,15000000,0
+Aboriginal Hostels Limited,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,59000000,57000000,0
+Community Operated Hostels,Aboriginal Hostels Limited,0,4000000,4000000,0
+Company Operated Hostels,Aboriginal Hostels Limited,0,54000000,52000000,0
+Indigenous,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,1047000000,898000000,0
+Stronger Futures in the Northern Territory,Indigenous,0,135000000,75000000,0
+Indigenous Capability and Development,Indigenous,0,505000000,518000000,0
+Native Title and Land Rights,Indigenous,0,93000000,95000000,0
+Indigenous Housing and Infrastructure,Indigenous,0,98000000,111000000,0
+Economic Development and Participation,Indigenous,0,213000000,96000000,0
+Women,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,46000000,56000000,0
+Disability and Carers,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,21848000000,23558000000,0
+Early Intervention Services for Children with Disability,Disability and Carers,0,96000000,99000000,0
+National Disability Insurance Scheme,Disability and Carers,0,81000000,370000000,0
+Support for Carers,Disability and Carers,0,22000000,21000000,0
+Services and Support for People with Disability,Disability and Carers,0,356000000,370000000,0
+Income Support for Carers,Disability and Carers,0,6219000000,6892000000,0
+Disability Support Pension,Disability and Carers,0,14871000000,15572000000,0
+Targeted Community Care,Disability and Carers,0,200000000,232000000,0
+Seniors,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,36818000000,39786000000,0
+"Allow ances, Concessions and Services for seniors",Seniors,0,239000000,317000000,0
+Income Support for Seniors,Seniors,0,36578000000,39469000000,0
+Community Capability and the Vulnerable,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,423000000,525000000,0
+Social and Community Services,Community Capability and the Vulnerable,0,70000000,145000000,0
+Supplementary Payments and Support for Income Support Recipients,Community Capability and the Vulnerable,0,42000000,39000000,0
+Support for People in Special Circumstances,Community Capability and the Vulnerable,0,9000000,6000000,0
+Income Support for Vulnerable People,Community Capability and the Vulnerable,0,72000000,78000000,0
+Community Investment,Community Capability and the Vulnerable,0,62000000,66000000,0
+Financial Management,Community Capability and the Vulnerable,0,165000000,187000000,0
+Housing,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,228000000,241000000,0
+Affordable Housing,Housing,0,160000000,177000000,0
+Housing Assistance and Homelessness Prevention,Housing,0,67000000,64000000,0
+Families & Children,"Families, Housing, Community Services and Indigenous Affairs portfolio",0,22927000000,22590000000,0
+Parent and Baby Payments,Families & Children,0,2360000000,2088000000,0
+Other,Parent and Baby Payments,0,14000000,15000000,0
+Dad and Partner Pay,Parent and Baby Payments,0,34000000,72000000,0
+Single Income Family Supplement,Parent and Baby Payments,0,56000000,56000000,0
+Parental Leave Pay,Parent and Baby Payments,0,1446000000,1579000000,0
+Baby Bonus,Parent and Baby Payments,0,806000000,364000000,0
+Family Tax Benefit,Families & Children,0,20270000000,20280000000,0
+Other,Family Tax Benefit,0,26000000,17000000,0
+Schoolkids Bonus,Family Tax Benefit,0,1407000000,1272000000,0
+Family Tax Benefit Part B,Family Tax Benefit,0,4528000000,4636000000,0
+Family Tax Benefit Part A,Family Tax Benefit,0,14307000000,14353000000,0
+Family Support,Families & Children,0,296000000,221000000,0
+Defence portfolio,Expenses,0,40628000000,41181000000,0
+Defence Housing Australia,Defence portfolio,0,965000000,1061000000,0
+Defence Material Organisation,Defence portfolio,0,8764000000,9658000000,0
+Provision of Policy Advice and Management Services,Defence Material Organisation,0,111000000,112000000,0
+Management of Capability Sustainment,Defence Material Organisation,0,5094000000,5639000000,0
+Other,Management of Capability Sustainment,0,5094000000,3096000000,0
+Colins Class Submarine,Management of Capability Sustainment,0,0,574000000,0
+F/A-18A Hornet Weapons System,Management of Capability Sustainment,0,0,158000000,0
+P-3C/AP-3C Orion Weapons System,Management of Capability Sustainment,0,0,110000000,0
+F/A-18F Block II Super Hornet Weapons System,Management of Capability Sustainment,0,0,123000000,0
+A rmed Reconnaissance Helicopter Weapons System,Management of Capability Sustainment,0,0,104000000,0
+Multi Role Helicopter,Management of Capability Sustainment,0,0,121000000,0
+Adelaide class frigate,Management of Capability Sustainment,0,0,89000000,0
+Anzac  class  frigate,Management of Capability Sustainment,0,0,224000000,0
+"Fuels and Lubricants - Navy, Army, Air Force",Management of Capability Sustainment,0,0,507000000,0
+Airborne Early Warning & Control,Management of Capability Sustainment,0,0,163000000,0
+"Explosive Ordnance - Navy, Army, Air Force",Management of Capability Sustainment,0,0,370000000,0
+Management of Capability Acquisition,Defence Material Organisation,0,3558000000,3906000000,0
+Other,Management of Capability Acquisition,0,3558000000,1682000000,0
+Joint Strike Fighter Aircraft,Management of Capability Acquisition,0,0,231000000,0
+Field Vehicles and Trailers - Overlander Program,Management of Capability Acquisition,0,0,235000000,0
+Amphibious Deployment and Sustainment,Management of Capability Acquisition,0,0,203000000,0
+Air Warfare Destroyer Build,Management of Capability Acquisition,0,0,625000000,0
+Future Naval Aviation Combat System Helicopter,Management of Capability Acquisition,0,0,412000000,0
+Multi Role Helicopter,Management of Capability Acquisition,0,0,204000000,0
+Battlefield A irlift - Caribou Replacement,Management of Capability Acquisition,0,0,162000000,0
+Battlespace Communications System (LAND),Management of Capability Acquisition,0,0,152000000,0
+Department of Defence,Defence portfolio,0,30899000000,30460000000,0
+Defence Contribution to National Support Tasks in Australia,Department of Defence,0,9000000,16000000,0
+Military Operations,Department of Defence,0,1419000000,912000000,0
+Operations Supporting Wider Interests,Military Operations,0,1251000000,895000000,0
+Operations Contributing to the Security of the Immediate Neighbourhood,Military Operations,0,168000000,16000000,0
+Military Capability,Department of Defence,0,29470000000,29531000000,0
+Housing Assistance,Military Capability,0,98000000,106000000,0
+Defence Force Superannuation Nominal Interest,Military Capability,0,2680000000,2927000000,0
+Defence Force Superannuation Benefits,Military Capability,0,3170000000,1352000000,0
+Chief Finance Officer,Military Capability,0,1318000000,1382000000,0
+Capability Development,Military Capability,0,301000000,970000000,0
+Joint Operations Command,Military Capability,0,46000000,51000000,0
+Vice Chief of the Defence Force,Military Capability,0,1403000000,1482000000,0
+Defence Science and Technology,Military Capability,0,481000000,462000000,0
+Defence People,Military Capability,0,355000000,452000000,0
+Chief Information Officer,Military Capability,0,986000000,987000000,0
+Defence Support,Military Capability,0,3949000000,4081000000,0
+Intelligence Capabilities,Military Capability,0,519000000,538000000,0
+Air Force Capabilities,Military Capability,0,4403000000,4488000000,0
+Army Capabilities,Military Capability,0,5184000000,5500000000,0
+Navy Capabilities,Military Capability,0,4426000000,4581000000,0
+Office of the Secretary and CDF,Military Capability,0,143000000,164000000,0
+Finance & Deregulation,Expenses,0,11201000000,10512000000,0
+Future Fund Management Agency,Finance & Deregulation,0,44000000,47000000,0
+ComSuper,Finance & Deregulation,0,80000000,80000000,0
+Commonwealth Superannuation Corporation,Finance & Deregulation,0,7000000,7000000,0
+Australian Electoral Commission,Finance & Deregulation,0,140000000,380000000,0
+Education and Communication ,Australian Electoral Commission,0,19000000,18000000,0
+Election Management and Support Services,Australian Electoral Commission,0,58000000,309000000,0
+Electoral Roll Management ,Australian Electoral Commission,0,62000000,53000000,0
+Ministerial and Parliamentary Services ,Finance & Deregulation,0,466000000,510000000,0
+Administration and oversight of government enterprise,Finance & Deregulation,0,224000000,233000000,0
+Insurance and Risk Management,Administration and oversight of government enterprise,0,84000000,98000000,0
+Property and Construction ,Administration and oversight of government enterprise,0,82000000,86000000,0
+Australian Government Business and ICT,Administration and oversight of government enterprise,0,57000000,48000000,0
+"Policy Advice, implementation, and financial guidance",Finance & Deregulation,0,10237000000,9252000000,0
+Nation Building Funds and DisabilityCare Australia Fund,"Policy Advice, implementation, and financial guidance",0,2040000000,1936000000,0
+Health and Hospitals Fund,Nation Building Funds and DisabilityCare Australia Fund,0,717000000,715000000,0
+Education Investment Fund,Nation Building Funds and DisabilityCare Australia Fund,0,426000000,266000000,0
+Building Australia Fund,Nation Building Funds and DisabilityCare Australia Fund,0,896000000,953000000,0
+Public Sector Superannuation ,"Policy Advice, implementation, and financial guidance",0,7975000000,7072000000,0
+"Budget, Financial Management, Better Regulation and Procurement Framework","Policy Advice, implementation, and financial guidance",0,221000000,244000000,0
+Other,"Budget, Financial Management, Better Regulation and Procurement Framework",0,5000000,13000000,0
+Coordinated Procurement Contracting,"Budget, Financial Management, Better Regulation and Procurement Framework",0,94000000,117000000,0
+Procurement Framework,"Budget, Financial Management, Better Regulation and Procurement Framework",0,9000000,9000000,0
+Deregulation and Regulatory Reform ,"Budget, Financial Management, Better Regulation and Procurement Framework",0,12000000,12000000,0
+Financial Framework ,"Budget, Financial Management, Better Regulation and Procurement Framework",0,23000000,22000000,0
+Financial Reporting ,"Budget, Financial Management, Better Regulation and Procurement Framework",0,20000000,12000000,0
+Budget Advice,"Budget, Financial Management, Better Regulation and Procurement Framework",0,56000000,56000000,0
+Treasury & Related Departments,Expenses,0,114804000000,117292000000,0
+Royal Australian Mint,Treasury & Related Departments,0,151000000,152000000,0
+Productivity Commission,Treasury & Related Departments,0,38000000,38000000,0
+Office of the Australian Accounting Standards Board,Treasury & Related Departments,0,4000000,4000000,0
+Office of the Auditing & Assurance Standards Board,Treasury & Related Departments,0,2000000,2000000,0
+National Competition Council,Treasury & Related Departments,0,2000000,2000000,0
+Inspector General of Taxation,Treasury & Related Departments,0,2000000,2000000,0
+Corporations and Markets Advisory Committee,Treasury & Related Departments,0,1000000,1000000,0
+Commonwealth Grants Commission,Treasury & Related Departments,0,6000000,6000000,0
+Clean Energy Finance Corporation,Treasury & Related Departments,0,8000000,338000000,0
+Australian Taxation Office,Treasury & Related Departments,0,19798000000,20529000000,0
+Other Administered,Australian Taxation Office,0,60000000,35000000,0
+Baby Bonus Tax Offset,Australian Taxation Office,0,1000000,0,0
+Low Income Superannuation Contribution (LISC),Australian Taxation Office,0,954000000,975000000,0
+Bad and Doubtful Debts and Remissions,Australian Taxation Office,0,6782000000,6985000000,0
+Interest on Overpayments and Early Payments,Australian Taxation Office,0,500000000,500000000,0
+First Home Saver Accounts,Australian Taxation Office,0,17000000,19000000,0
+National Rental Affordability Scheme,Australian Taxation Office,0,33000000,130000000,0
+Fuel Tax Credits Scheme,Australian Taxation Office,0,5519000000,5871000000,0
+Superannuation Guarantee Scheme,Australian Taxation Office,0,328000000,339000000,0
+Superannuation Co-contribution Scheme,Australian Taxation Office,0,83000000,138000000,0
+Private Health Insurance Rebate,Australian Taxation Office,0,206000000,191000000,0
+Research and Development Tax Incentive,Australian Taxation Office,0,1471000000,1410000000,0
+Australian Screen Production Incentive,Australian Taxation Office,0,267000000,237000000,0
+Cleaner Fuels Grant Scheme,Australian Taxation Office,0,40000000,43000000,0
+Product Stewardship for Oil,Australian Taxation Office,0,35000000,47000000,0
+Australian Charities and Not-for-profits Commission,Australian Taxation Office,0,14000000,15000000,0
+Australian Valuation Office,Australian Taxation Office,0,34000000,32000000,0
+Australian Business Register,Australian Taxation Office,0,162000000,176000000,0
+Tax Practitioners Board,Australian Taxation Office,0,16000000,14000000,0
+Australian Taxation Office,Australian Taxation Office,0,3273000000,3368000000,0
+Australian Security and Investments Commission,Treasury & Related Departments,0,525000000,506000000,0
+Administration of unclaimed money,Australian Security and Investments Commission,0,70000000,55000000,0
+Department expenses,Australian Security and Investments Commission,0,454000000,450000000,0
+Australian Prudential Regulation Authority,Treasury & Related Departments,0,117000000,124000000,0
+Australian Bureau of Statistics,Treasury & Related Departments,0,423000000,388000000,0
+Australian Office of Financial Management,Treasury & Related Departments,0,12219000000,12468000000,0
+Department expenses,Australian Office of Financial Management,0,10000000,12000000,0
+Servicing Australia's Debt,Australian Office of Financial Management,0,12209000000,12456000000,0
+Australian Competition and Consumer Commission,Treasury & Related Departments,0,166000000,122000000,0
+Payments to States,Treasury & Related Departments,0,81022000000,82395000000,0
+National Partnership Payments to the States,Payments to States,0,10966000000,11079000000,0
+Assistance to the States for Affordable Housing,Payments to States,0,1263000000,1282000000,0
+Assistance to the States for Disabilities Services,Payments to States,0,1244000000,1237000000,0
+Assistance to the States for Skills and Workforce Development,Payments to States,0,1387000000,1408000000,0
+Assistance to the States for Government Schools,Payments to States,0,3944000000,2112000000,0
+Assistance to the States for Healthcare Services,Payments to States,0,13280000000,14040000000,0
+General Revenue Assistance,Payments to States,0,48935000000,51233000000,0
+Support for Markets and Business,Treasury & Related Departments,0,22000000,24000000,0
+Payments to International Financial Institutions,Treasury & Related Departments,0,18000000,3000000,0
+Department of the Treasury,Treasury & Related Departments,0,271000000,178000000,0

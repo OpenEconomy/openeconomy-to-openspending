@@ -1,0 +1,11 @@
+Item,Parent,2009-10
+Liabilities,,128500
+Property,Liabilities,118700
+Owner Occupied Dwelling,Property,90700
+Investment property,Property,28000
+Other Loans,Liabilities,9800
+Study,Other Loans,1400
+Credit cards,Other Loans,2500
+Vehicles,Other Loans,2300
+Investment ,Other Loans,2400
+Other,Other Loans,1200

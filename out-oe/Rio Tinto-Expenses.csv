@@ -1,0 +1,19 @@
+Item,Parent,2011-12,2009-10,2010-11
+Expenses,,53971000000,42134000000,53772000000
+Net Operating Costs,Expenses,37536000000,35262000000,36260000000
+Raw materials,Net Operating Costs,9597000000,12004000000,10975000000
+Amortisation,Net Operating Costs,300000000,369000000,314000000
+Depreciation ,Net Operating Costs,4141000000,3068000000,3503000000
+Employment costs,Net Operating Costs,8464000000,6406000000,6908000000
+Repairs and maintenance,Net Operating Costs,2919000000,1946000000,2533000000
+Shipping,Net Operating Costs,1896000000,1890000000,1885000000
+Other freight,Net Operating Costs,1179000000,838000000,959000000
+Royalties,Net Operating Costs,2374000000,2104000000,2790000000
+Amounts charged by jointly controlled entitites,Net Operating Costs,3445000000,2934000000,3730000000
+Provisions,Net Operating Costs,807000000,907000000,961000000
+Research and development,Net Operating Costs,129000000,187000000,148000000
+Other ,Net Operating Costs,2285000000,2609000000,1554000000
+Impairment charges less reversals,Expenses,13953000000,982000000,9174000000
+Exploration and evaluation costs,Expenses,1970000000,594000000,1437000000
+Other ,Expenses,83000000,0,462000000
+Taxation,Expenses,429000000,5296000000,6439000000
